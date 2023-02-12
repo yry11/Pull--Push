@@ -1,3 +1,3 @@
 # Pull  Push
  
-This is a repo that is a collaboration, between Katie and Becky. 
+This is a repo that is a collaboration, between ruiyuan yang and huimeng ju shanjie li. 
